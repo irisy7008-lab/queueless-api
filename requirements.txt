@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pydantic
+rapidfuzz
+python-dotenv
+openai   # optional: only needed if you want AI conversation starters

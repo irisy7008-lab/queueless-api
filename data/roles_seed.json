@@ -1,0 +1,72 @@
+[
+  {
+    "employer":{
+      "name":"One NZ",
+      "boothCode":"A01",
+      "website":"https:\/\/one.nz\/about\/?srsltid=AfmBOopVrUvIclBmS1o9WQLuW7KXHic6-oRiema1HZLqXhL-JhvFi-_8"
+    },
+    "role":{
+      "title":"Data Analyst",
+      "location":"Auckland",
+      "is_active":true
+    },
+    "skills":[
+      "SQL",
+      "Python",
+      "Power BI",
+      "React",
+      "Verbal&Written communication"
+    ],
+    "hiringLeads":[
+      {
+        "title":"Technical Data Business Analyst",
+        "name":"Nelle Contreras",
+        "linkedin_url":"https:\/\/www.linkedin.com\/in\/nelle-contreras-04b41158\/?originalSubdomain=nz",
+        "opt_in":true
+      },
+      {
+        "title":"Talent Business Partner",
+        "name":"Yvonne Abuyabor",
+        "linkedin_url":"https:\/\/www.linkedin.com\/in\/yvonnealivio\/?originalSubdomain=nz",
+        "opt_in":true
+      }
+    ],
+    "links":[
+      "https:\/\/app.summeroftech.co.nz\/jobs\/3216"
+    ]
+  },
+  {
+    "employer":{
+      "name":"One NZ",
+      "boothCode":"A01",
+      "website":"https:\/\/one.nz\/about\/?srsltid=AfmBOopVrUvIclBmS1o9WQLuW7KXHic6-oRiema1HZLqXhL-JhvFi-_8"
+    },
+    "role":{
+      "title":"AI Product Engineer",
+      "location":"Auckland",
+      "is_active":true
+    },
+    "skills":[
+      "Systems Infrastructure",
+      "UI\/UX",
+      "AI"
+    ],
+    "hiringLeads":[
+      {
+        "title":"Chapter Lead",
+        "name":"Ethan Li",
+        "linkedin_url":"https:\/\/www.linkedin.com\/in\/lc-ethan\/?originalSubdomain=nz",
+        "opt_in":true
+      },
+      {
+        "title":"Talent Business Partner",
+        "name":"Yvonne Abuyabor",
+        "linkedin_url":"https:\/\/www.linkedin.com\/in\/yvonnealivio\/?originalSubdomain=nz",
+        "opt_in":true
+      }
+    ],
+    "links":[
+      "https:\/\/app.summeroftech.co.nz\/jobs\/3215"
+    ]
+  }
+]

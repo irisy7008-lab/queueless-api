@@ -1,0 +1,16 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# System / OS files
+.DS_Store
+Thumbs.db
+
+# OneDrive temp files
+~$*
+*.tmp
